@@ -1,0 +1,47 @@
+.container {
+    padding-top: 1%;
+}
+#liens {
+    border: solid;
+}
+
+#partenaires {
+    border: solid;
+}
+
+#présentation {
+    border: solid;
+}
+
+#statistiques {
+    border: solid;
+}
+
+h1 {
+    text-align: center;
+}
+
+#footer {
+    border: solid;
+}
+
+#slogan {
+    border: solid;
+}
+
+#boutons {
+    float: left;
+    padding-top: 2%;
+}
+
+#footer {
+    margin-top: 2%;
+}
+.btn btn-primary {
+    border-radius:12px 0 12px 0;
+    background: #478bf9;
+    border:none;
+    color:#fff;
+    font:bold 12px Verdana;
+    padding:6px 0 6px 0 !important;
+}
