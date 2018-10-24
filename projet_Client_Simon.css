@@ -1,7 +1,10 @@
 .container {
     padding-top: 1%;
     color: #1D2686;
-    background-color: #BFBFBF;
+}
+
+header {
+    border: solid;
 }
 
 
@@ -9,15 +12,18 @@
 #partenaires {
     text-align: center;
     margin-top: 4%;
+    border: solid;
 }
 
 #présentation {
     text-align: center;
+    border: solid;
 }
 
 #statistiques {
     text-align: center;
     margin-top: 4%;
+    border: solid;
 }
 
 h1 {
