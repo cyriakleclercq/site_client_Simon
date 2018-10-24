@@ -59,9 +59,8 @@ h1 {
     padding:6px 0 6px 0 !important;
 }
 #tt {
-    font-size: 40px;
-    color: red;
-    background-color: #575757;
+    font-size: 50px;
+    color:red;
     text-shadow: 0 1px 0 #292929,
     0 2px 0 #000000,
     -1px 3px 0 #000000,
@@ -71,12 +70,9 @@ h1 {
     -2px 7px 2px rgba(0, 0, 0, 0.6),
     -2px 7px 8px rgba(0, 0, 0, 0.67),
     -2px 7px 45px rgba(0, 0, 0, 0.4);
-    padding-right: 10px;
-    padding-left: 10px;
-    margin-right: 20px;
-    margin-left: 65px;
-    border: inset;
-}
+    position:relative;
+
+    left:60px;}
 #ty{
     border:solid 2px black;
     margin-top:20px;
