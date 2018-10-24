@@ -97,3 +97,15 @@ p{
     font-size:110%;
 
 }
+#slogan{
+   position:relative;
+    bottom:700px;
+    right:360px;
+    background-color: deepskyblue;
+    color:white;
+    border:solid grey 3px;
+
+}
+input{
+    float:right;
+}

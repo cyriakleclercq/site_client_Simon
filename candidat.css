@@ -152,3 +152,15 @@ margin-left:65px;
 
 
 }
+#slogan{
+    position:relative;
+    bottom:550px;
+    right:370px;
+    background-color: deepskyblue;
+    color:white;
+    border:solid grey 3px;
+
+}
+input{
+    float:right;
+}
