@@ -1,0 +1,64 @@
+.container {
+    padding-top: 1%;
+}
+
+#liens {
+    border: solid;
+}
+
+.remerciements1 {
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 3%;
+    font-size: 15px;
+    position: left;
+    color:  #1D2686;
+
+}
+
+.remerciements2 {
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 3%;
+    font-size: 15px;
+    position: left;
+    color:  #1D2686;
+}
+
+
+h1 {
+    text-align: center;
+    color:  #1D2686;
+}
+
+#footer {
+    border: solid;
+}
+
+#slogan {
+    border: solid;
+}
+
+#boutons {
+    float: left;
+    padding-top: 2%;
+}
+
+#footer {
+    margin-top: 2%;
+}
+
+.logo {
+    max-width: 40%;
+    max-height: 90%;
+}
+
+#img_europe {
+    width: 80%;
+    height: 80%;
+    padding-top:  10%;
+}
+
+.txt_r {
+    float: right;
+}
