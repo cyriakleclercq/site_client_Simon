@@ -55,3 +55,15 @@ h1 {
 strong{
     color: #ffc107;
 }
+#slogan{
+    position:relative;
+    bottom:250px;
+    right:380px;
+    background-color: deepskyblue;
+    color:white;
+    border:solid grey 3px;
+
+}
+input{
+    float:right;
+}
