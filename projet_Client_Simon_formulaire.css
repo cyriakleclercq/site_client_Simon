@@ -1,0 +1,30 @@
+.container {
+    color: #1D2686;
+    background-color: #BFBFBF;
+}
+
+.container {
+    padding-top: 1%;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    margin-top: 2%;
+    text-align: center;
+}
+
+#boutons {
+    float: left;
+    padding-top: 2%;
+}
+
+#candidats_entreprises {
+    text-align: center;
+}
+
+#message {
+    height: 100px;
+}
