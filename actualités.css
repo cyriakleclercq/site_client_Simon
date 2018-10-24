@@ -1,0 +1,31 @@
+.container {
+    padding-top: 1%;
+    color: #1D2686;
+}
+
+header {
+    border: solid black;
+}
+
+#footer {
+    margin-top: 2%;
+    text-align: center;
+    border: solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+#boutons {
+    float: left;
+    padding-top: 2%;
+}
+
+.article {
+    border: black solid 1px;
+}
+.icon_j {
+    height: 100%;
+    width: 14%;
+}
