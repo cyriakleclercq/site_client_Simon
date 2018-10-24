@@ -1,32 +1,27 @@
 .container {
     padding-top: 1%;
-}
-#liens {
-    border: solid;
+    color: #1D2686;
+    background-color: #BFBFBF;
 }
 
+
+
 #partenaires {
-    border: solid;
+    text-align: center;
+    margin-top: 4%;
 }
 
 #présentation {
-    border: solid;
+    text-align: center;
 }
 
 #statistiques {
-    border: solid;
+    text-align: center;
+    margin-top: 4%;
 }
 
 h1 {
     text-align: center;
-}
-
-#footer {
-    border: solid;
-}
-
-#slogan {
-    border: solid;
 }
 
 #boutons {
@@ -36,6 +31,8 @@ h1 {
 
 #footer {
     margin-top: 2%;
+    text-align: center;
+    border: solid;
 }
 
 #tt {
