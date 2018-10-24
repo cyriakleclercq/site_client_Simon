@@ -1,6 +1,5 @@
 .container {
     color: #1D2686;
-    background-color: #BFBFBF;
 }
 
 .container {
@@ -14,6 +13,7 @@ h1 {
 footer {
     margin-top: 2%;
     text-align: center;
+    border: solid;
 }
 
 #boutons {
@@ -27,4 +27,16 @@ footer {
 
 #message {
     height: 100px;
+}
+
+header {
+    border: solid;
+}
+
+#candidats {
+    border: solid;
+}
+
+#entreprises {
+    border: solid;
 }
