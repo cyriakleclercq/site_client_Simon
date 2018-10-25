@@ -7,13 +7,16 @@
 }
 
 h1 {
-    text-align: center;
+    text-align: center !important;
+    font-size: 50px !important;
+    color: #20c997 !important;
+    font-family: monospace !important;
 }
 
 footer {
     margin-top: 2%;
     text-align: center;
-    border: solid black;
+    background-color:rgba(163, 218, 255, 1);
 }
 
 #boutons {
@@ -29,16 +32,12 @@ footer {
     height: 100px;
 }
 
-header {
-    border: solid black;
-}
-
 #candidats {
-    border: solid black;
+    background-color:rgba(163, 218, 255, 1);
 }
 
 #entreprises {
-    border: solid black;
+    background-color: rgba(255, 188, 117, 1);
 }
 
 h3 {
