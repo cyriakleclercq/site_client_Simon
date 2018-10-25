@@ -13,7 +13,7 @@ h1 {
 footer {
     margin-top: 2%;
     text-align: center;
-    border: solid;
+    border: solid black;
 }
 
 #boutons {
@@ -30,13 +30,17 @@ footer {
 }
 
 header {
-    border: solid;
+    border: solid black;
 }
 
 #candidats {
-    border: solid;
+    border: solid black;
 }
 
 #entreprises {
-    border: solid;
+    border: solid black;
+}
+
+h3 {
+    text-decoration: underline;
 }
