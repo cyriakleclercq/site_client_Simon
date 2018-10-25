@@ -57,11 +57,13 @@ strong{
 }
 #slogan{
     position:relative;
-    bottom:250px;
+    bottom:350px;
     right:380px;
-    background-color: deepskyblue;
-    color:white;
+    background-color:rgba(163, 218, 255, 1);
+    color:gray;
     border:solid grey 3px;
+    padding-bottom: 30px;
+    padding-top: 30px;
 
 }
 input{
