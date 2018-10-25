@@ -69,3 +69,7 @@ strong{
 input{
     float:right;
 }
+
+h2 {
+    text-decoration: underline;
+}
