@@ -3,35 +3,28 @@
 
 }
 #liens {
-    border: solid;
+    border: none;
 }
 
 #partenaires {
-    border: solid;
+
     float:right;
     top:3%;
     left:2%;
+    background-color:rgba(163, 218, 255, 1);
 
 }
 
 #présentation {
-    border: solid;
     float:top;
-
-
-
-
+    background-color: rgba(255, 188, 117, 1);
 }
 
 #statistiques {
-    border: solid;
     float:right;
     right:2%;
     top:5%;
-
-
-
-
+    background-color:rgba(163, 218, 255, 1);
 }
 
 h1 {
@@ -39,10 +32,7 @@ h1 {
 }
 
 #footer {
-    border: solid;
-
-
-
+    border: none;
 }
 
 #slogan {
@@ -93,18 +83,9 @@ h1 {
 }
 
 #ty{
-    border:solid 2px black;
     margin-top:20px;
-
-
-
-
-
-
-
-
     text-align: center;
-
+    background-color: rgba(255, 188, 117, 1);
 }
 p {
     line-height: 150%;
