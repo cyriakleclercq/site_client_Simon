@@ -3,27 +3,29 @@
 
 }
 #liens {
-    border: solid;
+
 }
 
 #partenaires {
-    border: solid;
+
     float:right;
     top:3%;
     left:2%;
+    background-color:rgba(163, 218, 255, 1);
 }
 
 #présentation {
-    border: solid;
-  float:top;
 
+  float:top;
+    background-color: rgba(255, 188, 117, 1);
 }
 
 #statistiques {
-    border: solid;
+
 float:right;
     right:2%;
     top:5%;
+    background-color:rgba(163, 218, 255, 1);
 
 }
 
@@ -36,7 +38,7 @@ h1 {
 }
 
 #slogan {
-    border: solid;
+
     margin-top:10%;
 }
 
@@ -62,9 +64,9 @@ h1 {
 
 }
 #ty{
-    border:solid 2px black;
-    margin-top:20px;
 
+    margin-top:20px;
+    background-color: rgba(255, 188, 117, 1);
 
     text-align: center;
 
