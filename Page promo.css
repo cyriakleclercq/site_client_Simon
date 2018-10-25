@@ -17,6 +17,7 @@ right: 10%;
 .container {
     padding-top: 1%;
     color: #1D2686;
+    text-align: center;
 }
 
 .image
@@ -38,14 +39,15 @@ right: 10%;
     font-family : "Courier New", Courier, Prestige, monospace;
     color: whitesmoke;
     margin-right: 50%;
-    background-color: rgba(255, 188, 117, 1);}
+    background-color: rgba(255, 188, 117, 1);
+}
+
 h1 {
     text-align: center !important;
     font-size: 50px !important;
     color:#20c997 !important;
     font-family: monospace !important;
 }
-
 
 #boutons {
     float: left;
