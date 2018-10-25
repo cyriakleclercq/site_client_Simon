@@ -56,9 +56,9 @@ strong{
     color: #ff8f08;
 }
 #slogan{
-    position:relative;
+    position:absolute;
     bottom:350px;
-    right:380px;
+    right:640px;
     background-color:rgba(163, 218, 255, 1);
     color:gray;
     border:solid grey 3px;
