@@ -3,35 +3,39 @@
 }
 
 #liens {
-    border: solid;
+    border : none;
 }
 
 .remerciements1 {
-    border: 2px solid black;
     display: inline-block;
     margin-top: 3%;
     font-size: 15px;
     color:  #1D2686;
+    background-color:rgba(163, 218, 255, 1);
 
 }
 
 .remerciements2 {
-    border: 2px solid black;
     display: inline-block;
     margin-top: 3%;
     font-size: 15px;
     color:  #1D2686;
+    background-color: rgba(255, 188, 117, 1);
 }
 
 
 h1 {
     text-align: center;
+    color:#20c997;
+    font-family: monospace;
 }
 
 
 #footer {
-    border: solid;
+    border: none;
     text-align: center;
+    margin-top: 2%;
+    background-color:rgba(163, 218, 255, 1);
 }
 
 #slogan {
@@ -43,9 +47,6 @@ h1 {
     padding-top: 2%;
 }
 
-#footer {
-    margin-top: 2%;
-}
 
 .logo {
     max-width: 40%;
