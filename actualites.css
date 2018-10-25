@@ -1,20 +1,22 @@
 .container {
     padding-top: 1%;
-    color: #1D2686;
+    color: black;
 }
 
 header {
-    border: solid black;
+
 }
 
 #footer {
     margin-top: 2%;
     text-align: center;
-    border: solid black;
+    background-color:rgba(163, 218, 255, 1);
 }
 
 h1 {
     text-align: center;
+    font-family : "Courier New", Courier, Prestige, monospace;
+    color:#20c997;
 }
 
 #boutons {
@@ -23,7 +25,7 @@ h1 {
 }
 
 .article {
-    border: black solid 1px;
+    background-color: rgba(255, 188, 117, 1);
 }
 .icon_j {
     height: 100%;
