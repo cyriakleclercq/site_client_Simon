@@ -5,4 +5,4 @@ function vaEtVient(){
     else {
         document.getElementById("slogan").style.display = 'none';
     }
-}
+      }
